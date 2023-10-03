@@ -1,0 +1,49 @@
+/* Set the background color for the entire body */
+body {
+    background-color: #f0f0f0; /* Change this to your desired background color */
+    font-family: Arial, sans-serif; /* Change this to your desired font-family */
+}
+
+/* Style the header */
+header {
+    background-color: #333; /* Change this to your desired header background color */
+    color: #fff; /* Change this to your desired text color */
+    text-align: center;
+    padding: 10px;
+}
+.one{
+font-size:large;
+background-color:black;
+color:red;
+}
+.two{
+    background-image: url(https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2022/11/07074519/world-environment-day-2022.jpg);
+}
+/* Style the navigation menu */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333; /* Change this to your desired link color */
+}
+
+/* Style the sections */
+section {
+    padding: 20px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333; /* Change this to your desired footer background color */
+    color: #fff; /* Change this to your desired text color */
+    text-align: center;
+    padding: 10px;
+}
